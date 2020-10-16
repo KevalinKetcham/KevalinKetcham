@@ -1,7 +1,7 @@
 ### Hi there 👋
-# This Github profile feature is great!
-## < You could check out by bio & follow me on Twitter...
-### -Kevalin
+## This Github profile feature is great!
+### <-- You could check out by bio & follow me on Twitter...
+#### -Kevalin
 
 <!--
 **KevalinKetcham/KevalinKetcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
